@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Scene Descriptions"
             }
+          },
+          {
+            "id": "563436088e5b1042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Notes/Scene Descriptions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Scene Descriptions"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,8 +233,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "bbd80d92084d68bd",
+  "active": "563436088e5b1042",
   "lastOpenFiles": [
+    "3 Notes/MaterialX.md",
     "3 Notes/Nodes (Houdini).md",
     "3 Notes/Scene Descriptions.md",
     "3 Notes/Studying at Filmakademie.md",

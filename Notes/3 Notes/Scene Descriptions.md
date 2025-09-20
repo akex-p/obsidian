@@ -1,7 +1,7 @@
 #3D #Rendering
 
 ## Definition
-- Set of code, describing scene
+- Set of code, describing a scene
 - Unique to a renderer
 ## USD
 = Universal Scene Description

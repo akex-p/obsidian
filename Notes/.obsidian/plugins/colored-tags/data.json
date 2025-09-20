@@ -20,7 +20,8 @@
     "rendering": 8,
     "Rendering": 9,
     "AKA": 10,
-    "Houdini": 11
+    "Houdini": 11,
+    "Shading": 12
   },
   "_version": 3
 }
