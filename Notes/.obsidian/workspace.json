@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Notes/Houdini Operators.md",
+                "file": "3 Notes/Scene Descriptions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Houdini Operators"
+              "title": "Scene Descriptions"
             }
           }
         ]
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Notes/Houdini Operators.md",
+                "file": "3 Notes/Scene Descriptions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Houdini Operators"
+              "title": "Outline of Scene Descriptions"
             }
           },
           {
@@ -208,16 +208,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "78956e1c45d42c27",
+  "active": "bbd80d92084d68bd",
   "lastOpenFiles": [
+    "3 Notes/Nodes (Houdini).md",
+    "3 Notes/Scene Descriptions.md",
+    "3 Notes/Studying at Filmakademie.md",
     "tutorial/README.md",
     "tutorial/Untitled.md",
-    "3 Notes/Houdini Operators.md",
     "tutorial",
     "3 Notes/Untitled.base",
     "3 Notes/clone.md",
-    "3 Notes/Studying at Filmakademie.md",
-    "3 Notes/Scene Descriptions.md",
     "Untitled.canvas",
     "3 Notes/Untitled 1.base",
     "0 Templates/Dated Note.md",
