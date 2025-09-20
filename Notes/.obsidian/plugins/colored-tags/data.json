@@ -1,0 +1,26 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "physics": 1,
+    "biology": 2,
+    "CG": 3,
+    "Simulation": 4,
+    "3D": 5,
+    "aka": 6,
+    "diploma": 7,
+    "rendering": 8,
+    "Rendering": 9,
+    "AKA": 10,
+    "Houdini": 11
+  },
+  "_version": 3
+}
