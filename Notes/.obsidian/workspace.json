@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Notes/Scene Descriptions.md",
+                "file": "3 Notes/Nodes (Houdini).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Scene Descriptions"
-            }
-          },
-          {
-            "id": "563436088e5b1042",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Notes/Scene Descriptions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Scene Descriptions"
+              "title": "Nodes (Houdini)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Notes/Scene Descriptions.md",
+                "file": "3 Notes/MaterialX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Scene Descriptions"
+              "title": "Outline of MaterialX"
             }
           },
           {
@@ -233,18 +208,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "563436088e5b1042",
+  "active": "bbd80d92084d68bd",
   "lastOpenFiles": [
-    "3 Notes/MaterialX.md",
-    "3 Notes/Nodes (Houdini).md",
     "3 Notes/Scene Descriptions.md",
+    "3 Notes/MaterialX.md",
+    "Untitled.canvas",
+    "3 Notes/Nodes (Houdini).md",
     "3 Notes/Studying at Filmakademie.md",
     "tutorial/README.md",
     "tutorial/Untitled.md",
     "tutorial",
     "3 Notes/Untitled.base",
     "3 Notes/clone.md",
-    "Untitled.canvas",
     "3 Notes/Untitled 1.base",
     "0 Templates/Dated Note.md",
     "3 Notes/mediaportal.filmakademie.de.md",
