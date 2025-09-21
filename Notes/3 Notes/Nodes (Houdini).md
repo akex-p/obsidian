@@ -9,5 +9,6 @@
 - VELLUM = Cloth, Soft Bodies
 - PYRO = Fire, Smoke
 	- VDB = Volume, not saving empty voxels
+	- Field = Volume inside of a DOP
 - FLIP = Fluids
 - RBD = Solids, Bricks, Balls
