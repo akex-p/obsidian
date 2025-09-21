@@ -1,5 +1,4 @@
 #3D #Simulation #Houdini
-
 ### Types
 - SOP = Surface Operator = **Geometry Node**
 - DOP = Dynamic Operator = **Dynamic Node**

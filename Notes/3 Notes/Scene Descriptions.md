@@ -1,5 +1,4 @@
 #3D #Rendering
-
 ## Definition
 - Set of code, describing a scene
 - Unique to a renderer

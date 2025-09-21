@@ -1,5 +1,4 @@
 #AKA
-
 ### Platforms
 - [Wiki](https://wiki.filmakademie.de/) 
 - [Mediaportal](https://mediaportal.filmakademie.de/)

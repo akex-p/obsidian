@@ -1,5 +1,4 @@
 #3D #Shading
-
 ### Definition
 - Open standard for material description
 - Includes shading/processing nodes

@@ -11,12 +11,24 @@
             "id": "e48835eccd4a41ad",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "01 Images/Pasted image 20250921155811.png"
+                "file": "3 Notes/Studying at Filmakademie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250921155811"
+              "icon": "lucide-file",
+              "title": "Studying at Filmakademie"
             }
           }
         ]
@@ -196,18 +208,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b7797067d5b2484",
+  "active": "e48835eccd4a41ad",
   "lastOpenFiles": [
+    "3 Notes/Scene Descriptions.md",
+    "3 Notes/Nodes (Houdini).md",
+    "3 Notes/MaterialX.md",
     "3 Notes/Git.md",
     "01 Images/Pasted image 20250921155811.png",
-    "3 Notes/Nodes (Houdini).md",
     "01 Images/Pasted image 20250921155145.png",
     "01 Images/Pasted image 20250921155318.png",
     "01 Images/Pasted image 20250921155333.png",
     "01 Images",
     "3 Notes/Studying at Filmakademie.md",
-    "3 Notes/Scene Descriptions.md",
-    "3 Notes/MaterialX.md",
     "Untitled.canvas",
     "tutorial/README.md",
     "tutorial/Untitled.md",
