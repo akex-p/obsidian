@@ -5,4 +5,4 @@
 - [Profile](https://meine.filmakademie.de/)
 - [Nextcloud](https://degas.filmakademie.de/nextcloud)
 ### Important Questions
-- Are Blind Dates always on Tuesdays?
+- 
