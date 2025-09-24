@@ -22,7 +22,9 @@
     "AKA": 10,
     "Houdini": 11,
     "Shading": 12,
-    "Coding": 13
+    "Coding": 13,
+    "WS2526": 14,
+    "Law": 15
   },
   "_version": 3
 }
