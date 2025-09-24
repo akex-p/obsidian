@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6649fbf6a94a5dad",
+        "id": "9b50bf423bf12710",
         "type": "tabs",
         "children": [
           {
-            "id": "a7c781033ead13d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Notes/AKA - Copyright and legal stuff.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AKA - Copyright and legal stuff"
-            }
-          },
-          {
-            "id": "ea48fdd28a0d1a2e",
+            "id": "385c311a56c613eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +31,7 @@
               "title": "AKA - Distribution"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,12 +208,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea48fdd28a0d1a2e",
+  "active": "385c311a56c613eb",
   "lastOpenFiles": [
-    "3 Notes/AKA - Studying at Filmakadmie.md",
-    "3 Notes/AKA - Distribution.md",
-    "3 Notes/Git.md",
     "3 Notes/AKA - Copyright and legal stuff.md",
+    "3 Notes/AKA - Distribution.md",
+    "3 Notes/AKA - Studying at Filmakadmie.md",
+    "3 Notes/Git.md",
     "conflict-files-obsidian-git.md",
     "3 Notes/Scene Descriptions.md",
     "3 Notes/How to AKA.md",

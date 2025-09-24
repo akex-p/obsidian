@@ -1,10 +1,12 @@
 #AKA #Law #WS2526
 
 https://wiki.filmakademie.de/wiki/pages/viewpage.action?pageId=212669226
-### General
-- Festival distribution
-- Commercial distribution
-- Online-publication
+### General guideline
+1. Festival distribution
+2. Commercial distribution
+3. Online-publication
+	1. Filmakademie channel
+	2. **Only then**: private channels
 ### Rights Guide
 ...see Wiki for the complete list (!)
 ### Project Closure
@@ -23,8 +25,6 @@ https://wiki.filmakademie.de/wiki/pages/viewpage.action?pageId=212669226
 	- Project Closure necessary
 	- Production company = Filmakademie (!)
 ### Online Distribution
-- 2 YouTube channels
-	1. Movies, Trailers
-	2. Insights
-- Vimeo channel
-- General guideline on Wiki
+- Multiple channels
+	1. YouTube: Movies, Trailers, Insides
+	2. Vimeo On Demand (Paid :) Money !)
