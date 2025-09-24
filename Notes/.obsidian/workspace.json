@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Notes/AKA - Studying at Filmakadmie.md",
+                "file": "3 Notes/Git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AKA - Studying at Filmakadmie"
+              "title": "Git"
             }
           }
         ]
@@ -210,9 +210,13 @@
   },
   "active": "385c311a56c613eb",
   "lastOpenFiles": [
+    "3 Notes/AKA - Studying at Filmakadmie.md",
+    "Facial Rigging.canvas",
+    "3 Notes/Facial Rigging.md",
+    "01 Images/Pasted image 20250924144602.png",
+    "01 Images/Pasted image 20250924144532.png",
     "3 Notes/AKA - Distribution.md",
     "3 Notes/AKA - Copyright and legal stuff.md",
-    "3 Notes/AKA - Studying at Filmakadmie.md",
     "3 Notes/Git.md",
     "conflict-files-obsidian-git.md",
     "3 Notes/Scene Descriptions.md",
@@ -226,7 +230,6 @@
     "01 Images",
     "00 Templates/Dated Note.md",
     "00 Templates",
-    "Untitled.canvas",
     "tutorial/README.md",
     "tutorial/Untitled.md",
     "tutorial",
