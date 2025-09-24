@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Notes/AKA - Copyright and legal stuff.md",
+                "file": "3 Notes/AKA - Distribution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AKA - Copyright and legal stuff"
+              "title": "AKA - Distribution"
             }
           }
         ],
@@ -235,12 +235,12 @@
   },
   "active": "ea48fdd28a0d1a2e",
   "lastOpenFiles": [
-    "3 Notes/AKA - Distribution.md",
     "3 Notes/AKA - Studying at Filmakadmie.md",
+    "3 Notes/AKA - Distribution.md",
+    "3 Notes/Git.md",
     "3 Notes/AKA - Copyright and legal stuff.md",
     "conflict-files-obsidian-git.md",
     "3 Notes/Scene Descriptions.md",
-    "3 Notes/Git.md",
     "3 Notes/How to AKA.md",
     "3 Notes/MaterialX.md",
     "3 Notes/Nodes (Houdini).md",
