@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a68ebf105ef3f8eb",
+            "id": "a7c781033ead13d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Notes/Copyright and legal stuff.md",
+                "file": "3 Notes/AKA - Copyright and legal stuff.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Copyright and legal stuff"
+              "title": "AKA - Copyright and legal stuff"
+            }
+          },
+          {
+            "id": "ea48fdd28a0d1a2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Notes/AKA - Distribution.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AKA - Distribution"
+            }
+          },
+          {
+            "id": "e05357e895209dfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,9 +257,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fcbce39feddeac6",
+  "active": "e05357e895209dfd",
   "lastOpenFiles": [
-    "3 Notes/Copyright and legal stuff.md",
+    "3 Notes/AKA - Distribution.md",
+    "conflict-files-obsidian-git.md",
+    "3 Notes/AKA - Copyright and legal stuff.md",
+    "3 Notes/AKA - Studying at Filmakademie.md",
+    "3 Notes/Scene Descriptions.md",
     "3 Notes/Git.md",
     "3 Notes/How to AKA.md",
     "3 Notes/MaterialX.md",
@@ -222,8 +275,6 @@
     "01 Images",
     "00 Templates/Dated Note.md",
     "00 Templates",
-    "3 Notes/Studying at Filmakademie.md",
-    "3 Notes/Scene Descriptions.md",
     "Untitled.canvas",
     "tutorial/README.md",
     "tutorial/Untitled.md",
