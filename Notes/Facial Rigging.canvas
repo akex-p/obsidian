@@ -5,7 +5,7 @@
 		{"id":"f391a8af2f28b77e","type":"text","text":"Mouth Ribbon Dummy Mesh\n(Face Loop)","x":400,"y":-200,"width":277,"height":60},
 		{"id":"38851d6969d6b8dc","type":"text","text":"Main Control Bones","x":820,"y":-200,"width":250,"height":60},
 		{"id":"0701cd3db80c2670","type":"text","text":"etc.","x":1154,"y":-199,"width":86,"height":60},
-		{"id":"0d2991d17c906df2","x":344,"y":-75,"width":333,"height":55,"type":"text","text":"https://youtu.be/_Ov0pFIOpug?si=YsNMov9r8u79H6EN"}
+		{"id":"0d2991d17c906df2","type":"text","text":"https://youtu.be/_Ov0pFIOpug?si=YsNMov9r8u79H6EN","x":344,"y":-75,"width":333,"height":55}
 	],
 	"edges":[
 		{"id":"6906d1dd3c0e2f6d","fromNode":"50e17de5bf9aec90","fromSide":"right","toNode":"f391a8af2f28b77e","toSide":"left","label":"controlls"},
