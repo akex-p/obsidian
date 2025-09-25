@@ -11,20 +11,52 @@
             "id": "385c311a56c613eb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "3 Notes/Blender - Facial Rigging.canvas",
-                "viewState": {
-                  "x": 147.58186156757068,
-                  "y": -819.5618941716019,
-                  "zoom": -0.5614465762506708
+                "file": "3 Notes/Action Design.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Blender - Facial Rigging"
+              "icon": "lucide-file",
+              "title": "Action Design"
+            }
+          },
+          {
+            "id": "4a3545265abdf146",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Notes/Post-Production.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Post-Production"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,14 +233,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "385c311a56c613eb",
+  "active": "4a3545265abdf146",
   "lastOpenFiles": [
-    "01 Images/Pasted image 20250925134413.png",
+    "3 Notes/Action Design.md",
+    "3 Notes/Post-Production.md",
+    "3 Notes/AKA - Distribution.md",
     "3 Notes/AKA - Occupational health and safety.md",
     "3 Notes/Blender - Facial Rigging.canvas",
-    "3 Notes/Action Design.md",
+    "01 Images/Pasted image 20250925134413.png",
     "3 Notes/AKA - Copyright and legal stuff.md",
-    "3 Notes/AKA - Distribution.md",
     "01 Images/Pasted image 20250925101605.png",
     "3 Notes/AKA - Studying at Filmakadmie.md",
     "3 Notes/Nodes (Houdini).md",
