@@ -15,34 +15,16 @@
               "state": {
                 "file": "3 Notes/Blender - Facial Rigging.canvas",
                 "viewState": {
-                  "x": 1561.8398197038969,
-                  "y": -692.8562848356873,
+                  "x": 147.58186156757068,
+                  "y": -819.5618941716019,
                   "zoom": -0.5614465762506708
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Blender - Facial Rigging"
             }
-          },
-          {
-            "id": "d4324488ac7e1344",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "3 Notes/Blender - Facial Rigging.canvas",
-                "viewState": {
-                  "x": 840.6745384295389,
-                  "y": -34.38661660323151,
-                  "zoom": -1.5381062348683658
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Blender - Facial Rigging"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,11 +201,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4324488ac7e1344",
+  "active": "385c311a56c613eb",
   "lastOpenFiles": [
-    "3 Notes/Action Design.md",
+    "01 Images/Pasted image 20250925134413.png",
     "3 Notes/AKA - Occupational health and safety.md",
     "3 Notes/Blender - Facial Rigging.canvas",
+    "3 Notes/Action Design.md",
     "3 Notes/AKA - Copyright and legal stuff.md",
     "3 Notes/AKA - Distribution.md",
     "01 Images/Pasted image 20250925101605.png",
