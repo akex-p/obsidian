@@ -15,8 +15,8 @@
               "state": {
                 "file": "3 Notes/Blender - Facial Rigging.canvas",
                 "viewState": {
-                  "x": 482.978956366987,
-                  "y": -653.7266143573706,
+                  "x": 1561.8398197038969,
+                  "y": -692.8562848356873,
                   "zoom": -0.5614465762506708
                 }
               },
@@ -28,24 +28,17 @@
             "id": "d4324488ac7e1344",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "3 Notes/AKA - Occupational health and safety.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "3 Notes/Blender - Facial Rigging.canvas",
+                "viewState": {
+                  "x": 840.6745384295389,
+                  "y": -34.38661660323151,
+                  "zoom": -1.5381062348683658
                 }
               },
-              "icon": "lucide-file",
-              "title": "AKA - Occupational health and safety"
+              "icon": "lucide-layout-dashboard",
+              "title": "Blender - Facial Rigging"
             }
           }
         ],
@@ -228,12 +221,13 @@
   },
   "active": "d4324488ac7e1344",
   "lastOpenFiles": [
-    "01 Images/Pasted image 20250925101605.png",
-    "3 Notes/AKA - Distribution.md",
+    "3 Notes/Action Design.md",
     "3 Notes/AKA - Occupational health and safety.md",
-    "3 Notes/AKA - Studying at Filmakadmie.md",
-    "3 Notes/AKA - Copyright and legal stuff.md",
     "3 Notes/Blender - Facial Rigging.canvas",
+    "3 Notes/AKA - Copyright and legal stuff.md",
+    "3 Notes/AKA - Distribution.md",
+    "01 Images/Pasted image 20250925101605.png",
+    "3 Notes/AKA - Studying at Filmakadmie.md",
     "3 Notes/Nodes (Houdini).md",
     "Facial Rigging.canvas",
     "conflict-files-obsidian-git.md",
@@ -273,7 +267,6 @@
     "new topic.md",
     "Welcome.md",
     "empty link.md",
-    "create a link.md",
     "Untitled 1.canvas"
   ]
 }

@@ -1,4 +1,4 @@
-#AKA #WS2526
+#AKA #WS2526 #Safety
 ### General
 - Insurance people = "same rights as police"
 - Insurance is defined by regulations (same weight as the law)
