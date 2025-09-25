@@ -1,9 +1,11 @@
 {
 	"nodes":[
 		{"id":"8b690690ced511e9","type":"group","x":-360,"y":-460,"width":1440,"height":460,"label":"Ribbon (?)"},
+		{"id":"48b2ce950dc76fd9","x":600,"y":-1240,"width":660,"height":659,"type":"group","label":"Ribbon using BB Chain"},
 		{"id":"e70be194dac3ae44","type":"group","x":-360,"y":-1160,"width":800,"height":542,"label":"Shapekeys + Bones"},
 		{"id":"80181fe9673f8f14","type":"group","x":60,"y":-1108,"width":359,"height":471,"label":"Main Structure"},
 		{"id":"779a67069073b080","type":"group","x":-340,"y":-1099,"width":327,"height":452,"label":"Mouth, Cheeks, Brows"},
+		{"id":"3b8d1396b7a59f0f","type":"group","x":620,"y":-1176,"width":290,"height":376,"label":"Knotenpunkt"},
 		{"id":"1d8a98ee358256a6","type":"text","text":"#Rigging #3D #Blender ","x":-360,"y":-1300,"width":240,"height":60},
 		{"id":"36e6de04d9aba6de","type":"text","text":"1. Create temporary armature (single bone)\n2. Create different shapes\n3. Extract those shapes to Shapekeys","x":-320,"y":-836,"width":287,"height":169},
 		{"id":"2c0633db12cf3774","type":"file","file":"01 Images/Pasted image 20250924190741.png","x":-307,"y":-1079,"width":261,"height":228},
@@ -14,12 +16,21 @@
 		{"id":"0701cd3db80c2670","type":"text","text":"etc.","x":974,"y":-319,"width":86,"height":60},
 		{"id":"8026e153be6a3590","type":"text","text":"Control Bones\n- Right, Middle, Left","x":-270,"y":-120,"width":260,"height":100},
 		{"id":"0d2991d17c906df2","type":"text","text":"https://youtu.be/_Ov0pFIOpug?si=YsNMov9r8u79H6EN","x":164,"y":-167,"width":333,"height":55},
-		{"id":"50e17de5bf9aec90","type":"file","file":"01 Images/Pasted image 20250924144602.png","x":-340,"y":-440,"width":399,"height":300}
+		{"id":"50e17de5bf9aec90","type":"file","file":"01 Images/Pasted image 20250924144602.png","x":-340,"y":-440,"width":399,"height":300},
+		{"id":"fa680f7e24f977f4","type":"text","text":"Intermediate Bone\n(holds constraints)","x":640,"y":-1024,"width":250,"height":60},
+		{"id":"c2dc4fdcbbea2b94","type":"text","text":"Tweak Bone","x":640,"y":-1156,"width":250,"height":60},
+		{"id":"3b185eaefd57b4d4","type":"text","text":"BB - Knoten","x":640,"y":-880,"width":250,"height":60},
+		{"id":"c82c945c502b9771","type":"text","text":"(Another Knotenpunkt ...)","x":990,"y":-880,"width":250,"height":60},
+		{"id":"c74355ee83cd20e9","type":"text","text":"BB Chain","x":804,"y":-661,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"6906d1dd3c0e2f6d","fromNode":"50e17de5bf9aec90","fromSide":"right","toNode":"f391a8af2f28b77e","toSide":"left","label":"controlls"},
 		{"id":"4c71762f779003e3","fromNode":"f391a8af2f28b77e","fromSide":"right","toNode":"38851d6969d6b8dc","toSide":"left","label":"drives"},
 		{"id":"b0b091789cfb4cac","fromNode":"38851d6969d6b8dc","fromSide":"right","toNode":"0701cd3db80c2670","toSide":"left"},
-		{"id":"22248e49132dc7cb","fromNode":"779a67069073b080","fromSide":"right","toNode":"80181fe9673f8f14","toSide":"left"}
+		{"id":"22248e49132dc7cb","fromNode":"779a67069073b080","fromSide":"right","toNode":"80181fe9673f8f14","toSide":"left"},
+		{"id":"c59e6877e38c871a","fromNode":"c2dc4fdcbbea2b94","fromSide":"bottom","toNode":"fa680f7e24f977f4","toSide":"top","color":"4"},
+		{"id":"04b9a6be40f16edb","fromNode":"3b185eaefd57b4d4","fromSide":"bottom","toNode":"c74355ee83cd20e9","toSide":"top","color":"5","label":"Copy location"},
+		{"id":"ca6216c84c1b3c35","fromNode":"fa680f7e24f977f4","fromSide":"bottom","toNode":"3b185eaefd57b4d4","toSide":"top","color":"4"},
+		{"id":"c681ae8f33de1f74","fromNode":"c82c945c502b9771","fromSide":"bottom","toNode":"c74355ee83cd20e9","toSide":"top","color":"5","label":"Copy location"}
 	]
 }
