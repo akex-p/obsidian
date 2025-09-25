@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"8b690690ced511e9","x":-360,"y":-460,"width":1440,"height":460,"type":"group","label":"Ribbon (?)"},
-		{"id":"e70be194dac3ae44","x":-360,"y":-1160,"width":800,"height":542,"type":"group","label":"Shapekeys + Bones"},
-		{"id":"80181fe9673f8f14","x":60,"y":-1108,"width":359,"height":471,"type":"group","label":"Main Structure"},
+		{"id":"8b690690ced511e9","type":"group","x":-360,"y":-460,"width":1440,"height":460,"label":"Ribbon (?)"},
+		{"id":"e70be194dac3ae44","type":"group","x":-360,"y":-1160,"width":800,"height":542,"label":"Shapekeys + Bones"},
+		{"id":"80181fe9673f8f14","type":"group","x":60,"y":-1108,"width":359,"height":471,"label":"Main Structure"},
 		{"id":"779a67069073b080","type":"group","x":-340,"y":-1099,"width":327,"height":452,"label":"Mouth, Cheeks, Brows"},
 		{"id":"1d8a98ee358256a6","type":"text","text":"#Rigging #3D #Blender ","x":-360,"y":-1300,"width":240,"height":60},
 		{"id":"36e6de04d9aba6de","type":"text","text":"1. Create temporary armature (single bone)\n2. Create different shapes\n3. Extract those shapes to Shapekeys","x":-320,"y":-836,"width":287,"height":169},
