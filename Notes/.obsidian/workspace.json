@@ -39,9 +39,9 @@
               "state": {
                 "file": "3 Notes/Blender - Facial Rigging.canvas",
                 "viewState": {
-                  "x": 1676.1796234378562,
-                  "y": -1512.9937762285767,
-                  "zoom": -0.7052968924057994
+                  "x": 2085.1401463603165,
+                  "y": -766.4923993240456,
+                  "zoom": -1.3719635590724661
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -228,6 +228,13 @@
   },
   "active": "4a3545265abdf146",
   "lastOpenFiles": [
+    "01 Images/Pasted image 20250926183145.png",
+    "01 Images/Pasted image 20250926183005.png",
+    "01 Images/Pasted image 20250926182945.png",
+    "01 Images/Pasted image 20250926182719.png",
+    "01 Images/Pasted image 20250926182657.png",
+    "01 Images/Pasted image 20250926182555.png",
+    "01 Images/Pasted image 20250926182442.png",
     "3 Notes/Post-Production.md",
     "3 Notes/Action Design.md",
     "3 Notes/AKA - Distribution.md",
@@ -244,15 +251,9 @@
     "01 Images/Pasted image 20250924190741.png",
     "3 Notes/Git.md",
     "3 Notes/Facial Rigging.md",
-    "01 Images/Pasted image 20250924144602.png",
-    "01 Images/Pasted image 20250924144532.png",
     "3 Notes/Scene Descriptions.md",
     "3 Notes/How to AKA.md",
     "3 Notes/MaterialX.md",
-    "01 Images/Pasted image 20250921155811.png",
-    "01 Images/Pasted image 20250921155333.png",
-    "01 Images/Pasted image 20250921155318.png",
-    "01 Images/Pasted image 20250921155145.png",
     "01 Images",
     "00 Templates/Dated Note.md",
     "00 Templates",
@@ -275,7 +276,6 @@
     "asdfjkl;.md",
     "new topic.md",
     "Welcome.md",
-    "empty link.md",
     "Untitled 1.canvas"
   ]
 }
