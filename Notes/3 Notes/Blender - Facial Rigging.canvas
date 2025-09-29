@@ -2,10 +2,10 @@
 	"nodes":[
 		{"id":"c7a05d27eb3105df","type":"group","x":3320,"y":-2320,"width":3120,"height":3560,"label":"Advanced Mouth Rigging"},
 		{"id":"44589f0b103bb159","type":"group","x":3582,"y":640,"width":1861,"height":520,"label":"Tracked Mouth Controller"},
+		{"id":"eee1e939786493bd","type":"group","x":1680,"y":-2320,"width":1420,"height":500,"label":"Lattice Rigging"},
 		{"id":"8b690690ced511e9","type":"group","x":-602,"y":-372,"width":1440,"height":460,"label":"Ribbon (?)"},
 		{"id":"6916aad858f882cc","type":"group","x":4320,"y":-1320,"width":1142,"height":477,"label":"Master BB-Bone"},
 		{"id":"1bf65c1111920d43","type":"group","x":5680,"y":-619,"width":690,"height":788,"label":"Additonal Automation"},
-		{"id":"eee1e939786493bd","x":1680,"y":-2319,"width":1420,"height":380,"type":"group","label":"Lattice Rigging"},
 		{"id":"9c4fd20193e4a111","type":"group","x":3853,"y":-2160,"width":1209,"height":440,"label":"Inital Setup"},
 		{"id":"48b2ce950dc76fd9","type":"group","x":-640,"y":-1312,"width":660,"height":659,"label":"Ribbon using BB Chain"},
 		{"id":"e70be194dac3ae44","type":"group","x":-602,"y":-2240,"width":800,"height":542,"label":"Shapekeys + Bones"},
@@ -104,7 +104,8 @@
 		{"id":"3b185eaefd57b4d4","type":"text","text":"BB - Knoten","x":-600,"y":-952,"width":250,"height":60},
 		{"id":"1df829cb8223ad01","type":"text","text":"DEF-Bone","x":2280,"y":-2239,"width":137,"height":60},
 		{"id":"4383f8824d12bd21","type":"text","text":"Single Vertex Group","x":2800,"y":-2239,"width":250,"height":60},
-		{"id":"1e6a0295ecf460ba","x":1760,"y":-2239,"width":137,"height":60,"type":"text","text":"CTRL-Bone"}
+		{"id":"1e6a0295ecf460ba","type":"text","text":"CTRL-Bone","x":1760,"y":-2239,"width":137,"height":60},
+		{"id":"d5d32212e57abcb5","type":"text","text":"Main Mesh","x":2280,"y":-1920,"width":135,"height":60}
 	],
 	"edges":[
 		{"id":"6906d1dd3c0e2f6d","fromNode":"50e17de5bf9aec90","fromSide":"right","toNode":"f391a8af2f28b77e","toSide":"left","label":"controlls"},
@@ -170,6 +171,8 @@
 		{"id":"4ed93917e7697a57","fromNode":"1df829cb8223ad01","fromSide":"right","toNode":"4383f8824d12bd21","toSide":"left","fromEnd":"arrow","label":"share name"},
 		{"id":"c78b3bc340b59190","fromNode":"18d2f56aa4f4e54a","fromSide":"bottom","toNode":"4f1ffeeaa435d0cb","toSide":"bottom","color":"4","label":"parented to\n(armature)"},
 		{"id":"ed0531349ed272bc","fromNode":"4f1ffeeaa435d0cb","fromSide":"bottom","toNode":"1e6a0295ecf460ba","toSide":"bottom","color":"4","label":"parented to\n(bone)"},
-		{"id":"4b2d2143eb3e8a33","fromNode":"1df829cb8223ad01","fromSide":"left","toNode":"1e6a0295ecf460ba","toSide":"right","color":"5","label":"constrained by\n(copy transform)"}
+		{"id":"4b2d2143eb3e8a33","fromNode":"1df829cb8223ad01","fromSide":"left","toNode":"1e6a0295ecf460ba","toSide":"right","color":"5","label":"constrained by\n(copy transform)"},
+		{"id":"c9783c6c31e395df","fromNode":"18d2f56aa4f4e54a","fromSide":"bottom","toNode":"d5d32212e57abcb5","toSide":"right"},
+		{"id":"30b2c419cfc8907d","fromNode":"9a6de64eb4859bac","fromSide":"bottom","toNode":"d5d32212e57abcb5","toSide":"left"}
 	]
 }
