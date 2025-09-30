@@ -227,3 +227,4 @@
 - Handheld camera -> seems improvised (tho dialogue is scripted)
 - With all stripped down: still same techniques - background/foreground, outfits, ...
 - Lots of focus on story
+- Involves lots of "foreshadowing"

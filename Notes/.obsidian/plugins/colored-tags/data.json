@@ -27,7 +27,9 @@
     "Law": 15,
     "Blender": 16,
     "Safety": 17,
-    "Editing": 18
+    "Editing": 18,
+    "FilmTheory": 19,
+    "Film": 20
   },
   "_version": 3
 }
