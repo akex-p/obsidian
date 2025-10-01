@@ -11,27 +11,38 @@
             "id": "fbcc7cf3d294b581",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "3 Notes/Right and Wrong Images.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "3 Notes/Blender - Facial Rigging.canvas",
+                "viewState": {
+                  "x": 5893.868824567783,
+                  "y": -3273.929335031511,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "Right and Wrong Images"
+              "icon": "lucide-layout-dashboard",
+              "title": "Blender - Facial Rigging"
+            }
+          },
+          {
+            "id": "060e26d4519eb32e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "3 Notes/Blender - Facial Rigging.canvas",
+                "viewState": {
+                  "x": 6768.597958224644,
+                  "y": -2460.725644665667,
+                  "zoom": -2.6096245549554253
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Blender - Facial Rigging"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,11 +219,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbcc7cf3d294b581",
+  "active": "060e26d4519eb32e",
   "lastOpenFiles": [
-    "3 Notes/Action Design.md",
-    "3 Notes/Blender - Facial Rigging.canvas",
+    "3 Notes/Git.md",
     "3 Notes/AKA - International stuff.md",
+    "3 Notes/Blender - Facial Rigging.canvas",
+    "3 Notes/Occupational health and safety.md",
+    "3 Notes/AKA - Distribution.md",
+    "3 Notes/Photography.md",
+    "3 Notes/Right and Wrong Images.md",
+    "3 Notes/Action Design.md",
     "01 Images/Pasted image 20250928150211.png",
     "01 Images/Pasted image 20250928145928.png",
     "01 Images/Pasted image 20250928145839.png",
@@ -223,12 +239,8 @@
     "01 Images/Pasted image 20250927163936.png",
     "01 Images/Pasted image 20250927163632.png",
     "01 Images/Pasted image 20250927152444.png",
-    "3 Notes/Right and Wrong Images.md",
     "3 Notes/Scene Descriptions.md",
-    "3 Notes/Git.md",
     "3 Notes/Post-Production.md",
-    "3 Notes/AKA - Distribution.md",
-    "3 Notes/AKA - Occupational health and safety.md",
     "3 Notes/AKA - Copyright and legal stuff.md",
     "3 Notes/AKA - Studying at Filmakadmie.md",
     "3 Notes/Nodes (Houdini).md",
@@ -256,7 +268,6 @@
     "2 Tags",
     "1 Sources/Books",
     "1 Sources/Articles",
-    "asdfjkl;.md",
     "Untitled 1.canvas"
   ]
 }

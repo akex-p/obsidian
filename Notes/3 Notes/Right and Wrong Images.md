@@ -228,3 +228,21 @@
 - With all stripped down: still same techniques - background/foreground, outfits, ...
 - Lots of focus on story
 - Involves lots of "foreshadowing"
+- Limitations force creative decisions -> Absolute freedom = sometimes confusing (too many options)
+### Other Notes
+- How long should the movie remain in ones mind?
+- Differentiation between being **consumer** and **producer**
+
+- If a photograph seems complex, its a bad
+- Technical decisions are not only technical, but content too (e.g. how are the microphones placed?)
+### 10 Questions
+- Welche Bilder braucht die Welt?
+- Welche Bilder braucht die Welt nicht?
+- Welche Bilder will ich sehen?
+- Welche Bilder will ich nicht sehen?
+- Welche Bilder will ich nicht sehen, aber will sie drum umso mehr sehen?
+- Welche Bilder will ich machen?
+- Wie weit würde ich dafür gehen? Wie viel würde ich von mir selbst präsentieren?
+- Wem will ich diese Bilder zeigen?
+- Wie lange soll sich dieser Wer an meine Bilder erinnern?
+- Welches Bild von mir will ich dieser Welt hinterlassen?
