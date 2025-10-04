@@ -11,17 +11,24 @@
             "id": "cdd04bd853085985",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "3 Notes/Blender - Facial Rigging.canvas",
-                "viewState": {
-                  "x": 2965.0354906054276,
-                  "y": -950.536534446764,
-                  "zoom": -2.0231553229841146
+                "file": "3 Notes/Action Design.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Blender - Facial Rigging"
+              "icon": "lucide-file",
+              "title": "Action Design"
             }
           }
         ]
@@ -203,8 +210,8 @@
   },
   "active": "cdd04bd853085985",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "3 Notes/Blender - Facial Rigging.canvas",
+    "conflict-files-obsidian-git.md",
     "3 Notes/Git.md",
     "3 Notes/AKA - International stuff.md",
     "3 Notes/Photography.md",
