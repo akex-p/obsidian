@@ -23,33 +23,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Blender - Facial Rigging"
             }
-          },
-          {
-            "id": "b6696c1b1427b3ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,10 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6696c1b1427b3ad",
+  "active": "cdd04bd853085985",
   "lastOpenFiles": [
-    "3 Notes/Blender - Facial Rigging.canvas",
     "conflict-files-obsidian-git.md",
+    "3 Notes/Blender - Facial Rigging.canvas",
     "3 Notes/Git.md",
     "3 Notes/AKA - International stuff.md",
     "3 Notes/Photography.md",
