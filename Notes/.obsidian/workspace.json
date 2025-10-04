@@ -40,9 +40,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Blender - Facial Rigging"
             }
+          },
+          {
+            "id": "f8a0d2e5968d5a8d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "3 Notes/Blender - Facial Rigging.canvas",
+                "viewState": {
+                  "x": 2900,
+                  "y": -540,
+                  "zoom": -4
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Blender - Facial Rigging"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,10 +236,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "060e26d4519eb32e",
+  "active": "f8a0d2e5968d5a8d",
   "lastOpenFiles": [
-    "3 Notes/MaterialX.md",
+    "conflict-files-obsidian-git.md",
     "3 Notes/Blender - Facial Rigging.canvas",
+    "3 Notes/MaterialX.md",
     "3 Notes/Right and Wrong Images.md",
     "3 Notes/Occupational health and safety.md",
     "3 Notes/Nodes (Houdini).md",
@@ -246,7 +264,6 @@
     "3 Notes/AKA - Copyright and legal stuff.md",
     "3 Notes/AKA - Studying at Filmakadmie.md",
     "Facial Rigging.canvas",
-    "conflict-files-obsidian-git.md",
     "3 Notes/Facial Rigging.md",
     "3 Notes/How to AKA.md",
     "01 Images",
