@@ -36,31 +36,58 @@
             }
           },
           {
-            "id": "696eb563c85c49cd",
+            "id": "1f5a32c00decc61f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "3 Notes/Blender - Facial Rigging.canvas",
+                "viewState": {
+                  "x": 2900,
+                  "y": -540,
+                  "zoom": -2.0231553229841146
                 }
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "lucide-layout-dashboard",
+              "title": "Blender - Facial Rigging"
+            }
+          },
+          {
+            "id": "ba4b31832d2fd68f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "3 Notes/Blender - Facial Rigging.canvas",
+                "viewState": {
+                  "x": 2900,
+                  "y": -540,
+                  "zoom": -2.0231553229841146
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Blender - Facial Rigging"
+            }
+          },
+          {
+            "id": "cdd04bd853085985",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "3 Notes/Blender - Facial Rigging.canvas",
+                "viewState": {
+                  "x": 2900,
+                  "y": -540,
+                  "zoom": -2.0231553229841146
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Blender - Facial Rigging"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,15 +264,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78956e1c45d42c27",
+  "active": "cdd04bd853085985",
   "lastOpenFiles": [
-    "3 Notes/Blender - Facial Rigging.canvas",
     "conflict-files-obsidian-git.md",
+    "3 Notes/Blender - Facial Rigging.canvas",
+    "3 Notes/My Background.canvas",
+    "3 Notes/Git.md",
     "3 Notes/Photography.md",
     "3 Notes/Right and Wrong Images.md",
     "3 Notes/AKA - International stuff.md",
-    "3 Notes/Git.md",
-    "My Background.canvas",
     "3 Notes/Scene Descriptions.md",
     "3 Notes/Occupational health and safety.md",
     "01 Images/Pasted image 20250930225240.png",
