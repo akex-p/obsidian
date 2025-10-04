@@ -28,15 +28,17 @@
             "id": "060e26d4519eb32e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "canvas",
               "state": {
-                "aFile": "Notes/.obsidian/plugins/colored-tags/data.json",
-                "bFile": "Notes/.obsidian/plugins/colored-tags/data.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "3 Notes/Blender - Facial Rigging.canvas",
+                "viewState": {
+                  "x": 2900,
+                  "y": -540,
+                  "zoom": -2.6096245549554253
+                }
               },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "icon": "lucide-layout-dashboard",
+              "title": "Blender - Facial Rigging"
             }
           },
           {
@@ -158,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 Notes/Blender - Facial Rigging.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Blender - Facial Rigging"
             }
           },
           {
@@ -176,11 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3 Notes/Blender - Facial Rigging.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Blender - Facial Rigging"
             }
           },
           {
@@ -204,12 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3 Notes/Blender - Facial Rigging.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Blender - Facial Rigging"
             }
           },
           {
@@ -243,11 +248,17 @@
   },
   "active": "060e26d4519eb32e",
   "lastOpenFiles": [
-    "01 Images/Pasted image 20250930230209.png",
-    "01 Images/Pasted image 20250930225229.png",
-    "01 Images/Pasted image 20250930225240.png",
-    "01 Images/Pasted image 20250930225444.png",
     "01 Images/Rendo.png",
+    "01 Images/Pasted image 20250930230209.png",
+    "01 Images/Pasted image 20250930225444.png",
+    "01 Images/Pasted image 20250930225240.png",
+    "01 Images/Pasted image 20250928143310.png",
+    "01 Images/Pasted image 20250928150211.png",
+    "01 Images/Pasted image 20250928145928.png",
+    "01 Images/Pasted image 20250928145839.png",
+    "01 Images/Pasted image 20250927164224.png",
+    "01 Images/Pasted image 20250928145749.png",
+    "01 Images/Pasted image 20250930225229.png",
     "3 Notes/Blender - Facial Rigging.canvas",
     "3 Notes/Git.md",
     "conflict-files-obsidian-git.md",
@@ -259,11 +270,6 @@
     "3 Notes/AKA - International stuff.md",
     "3 Notes/AKA - Distribution.md",
     "3 Notes/Action Design.md",
-    "01 Images/Pasted image 20250928150211.png",
-    "01 Images/Pasted image 20250928145928.png",
-    "01 Images/Pasted image 20250928145839.png",
-    "01 Images/Pasted image 20250928145749.png",
-    "01 Images/Pasted image 20250928143310.png",
     "3 Notes/Scene Descriptions.md",
     "3 Notes/Post-Production.md",
     "3 Notes/AKA - Copyright and legal stuff.md",
