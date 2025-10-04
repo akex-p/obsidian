@@ -84,7 +84,7 @@
 - conversation depicts his loneliness, monologue (no music)
 - he seems indecisive... tells about moms illness -> psychologically 
 - father died, another lover died as well
-- 
+
 - reacts very 
 - describes mad-house in detail -> hate towards it
 - makes it clear, mom is harmless -> does not need "some place" (music joins in, plays quietly while he is speaking)

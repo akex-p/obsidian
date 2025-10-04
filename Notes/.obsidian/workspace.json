@@ -28,17 +28,15 @@
             "id": "060e26d4519eb32e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "split-diff-view",
               "state": {
-                "file": "3 Notes/Blender - Facial Rigging.canvas",
-                "viewState": {
-                  "x": 2900,
-                  "y": -540,
-                  "zoom": -2.6096245549554253
-                }
+                "aFile": "Notes/.obsidian/plugins/colored-tags/data.json",
+                "bFile": "Notes/.obsidian/plugins/colored-tags/data.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Blender - Facial Rigging"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           },
           {
@@ -57,9 +55,19 @@
               "icon": "lucide-layout-dashboard",
               "title": "Blender - Facial Rigging"
             }
+          },
+          {
+            "id": "69e46d06a97c3480",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Notes/Blender - Facial Rigging.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Blender - Facial Rigging"
+              "title": "Backlinks"
             }
           },
           {
@@ -169,12 +176,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Notes/Blender - Facial Rigging.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Blender - Facial Rigging"
+              "title": "Outgoing links"
             }
           },
           {
@@ -198,13 +204,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Notes/Blender - Facial Rigging.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Blender - Facial Rigging"
+              "title": "Outline"
             }
           },
           {
@@ -236,15 +241,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8a0d2e5968d5a8d",
+  "active": "060e26d4519eb32e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "01 Images/Pasted image 20250930230209.png",
+    "01 Images/Pasted image 20250930225229.png",
+    "01 Images/Pasted image 20250930225240.png",
+    "01 Images/Pasted image 20250930225444.png",
+    "01 Images/Rendo.png",
     "3 Notes/Blender - Facial Rigging.canvas",
+    "3 Notes/Git.md",
+    "conflict-files-obsidian-git.md",
     "3 Notes/MaterialX.md",
     "3 Notes/Right and Wrong Images.md",
     "3 Notes/Occupational health and safety.md",
     "3 Notes/Nodes (Houdini).md",
-    "3 Notes/Git.md",
     "3 Notes/Photography.md",
     "3 Notes/AKA - International stuff.md",
     "3 Notes/AKA - Distribution.md",
@@ -254,11 +264,6 @@
     "01 Images/Pasted image 20250928145839.png",
     "01 Images/Pasted image 20250928145749.png",
     "01 Images/Pasted image 20250928143310.png",
-    "01 Images/Pasted image 20250928141541.png",
-    "01 Images/Pasted image 20250927164224.png",
-    "01 Images/Pasted image 20250927163936.png",
-    "01 Images/Pasted image 20250927163632.png",
-    "01 Images/Pasted image 20250927152444.png",
     "3 Notes/Scene Descriptions.md",
     "3 Notes/Post-Production.md",
     "3 Notes/AKA - Copyright and legal stuff.md",
