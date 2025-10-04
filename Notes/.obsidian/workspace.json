@@ -28,17 +28,24 @@
             "id": "060e26d4519eb32e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "3 Notes/Blender - Facial Rigging.canvas",
-                "viewState": {
-                  "x": 3381.522180918584,
-                  "y": -1288.4951768785434,
-                  "zoom": -1.6096245549554253
+                "file": "3 Notes/Photography.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Blender - Facial Rigging"
+              "icon": "lucide-file",
+              "title": "Photography"
             }
           }
         ],
@@ -219,10 +226,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "060e26d4519eb32e",
+  "active": "78956e1c45d42c27",
   "lastOpenFiles": [
-    "3 Notes/Photography.md",
     "3 Notes/Blender - Facial Rigging.canvas",
+    "3 Notes/Photography.md",
     "3 Notes/Git.md",
     "3 Notes/AKA - International stuff.md",
     "3 Notes/Occupational health and safety.md",
