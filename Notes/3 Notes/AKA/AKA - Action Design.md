@@ -1,18 +1,28 @@
 #AKA #Safety #WS2526 
 ### General
-- Action Design = dramatic scenes, stunts, ...
-	- Requires risk assessment
-	- Something as simple as a slap **can be a stunt**
-- Contact person: Katrin Gärtner
+- **Action Design** = rapid sequence of movements (mostly fights, danger, conflict, ...)
+- **Stunt** = action, with no guarantee for safety by mere acting
+	- e.g. Slap, Fight, ...
+	- Requires: **Risk Assessment**
+### Development
+1. Idea
+2. Preparation
+3. Shot
+4. Edit
 ### Types of Action
 - Bodystunt (most often)
 - Fight scene
 - Stunts with vehicle
 - Stunts with animals
 - Rigging
-- Mo-Cap, Animation
-- Water, fire
+- Technical (Mo-Cap, Animation)
+- Water/ Fire
 - Weapons
+### Training
+- Probezeitraum versichern (z.B. Schauspieler)
+- Beaufsichtigung durch Stunt-Coordinator (oder Fachleute, z.B. Intimacy-Coach)
+- Departments einbinden
+- Rollen/Choreographie entwickeln
 ### Weapons
 - Most important rules:
 	1. Treat as if its loaded

@@ -1,30 +1,44 @@
 #AKA #Law #WS2526
 
 https://wiki.filmakademie.de/wiki/pages/viewpage.action?pageId=212669226
-### General guideline
-1. Festival distribution
-2. Commercial distribution
-3. Online-publication
-	1. Filmakademie channel
-	2. **Only then**: private channels
-### Rights Guide
-...see Wiki for the complete list (!)
-### Project Closure
-1. Approval for presentations
-2. Approval for distribution
-3. Financial closure
+### General
+![[Pasted image 20251009213811.png]]
+### Die 10 Gebote
+1. **Rechtliche Klärung** nur bei Veröffentlichung/Verwertung nötig
+2. Veröffentlichung/Verwertung von Projekten benötigt **Projektabschluss**
+3. Rechte **frühzeitig** beachten
+4. **Schriftliche Vereinbarungen** vor Arbeitsaufnahme
+5. **Rückstellungsvertrag** über Projektverantwortlichen (nicht FA-BW) (Ausnahme: Werbefilm)
+6. Alle Verträge von FA-BW-berechtigten Person unterschrieben
+7. Veröffentlichungsfreigabe benötigt **Auskunft über Rechtesituation**
+8. FA-BW ist **Produzent (Inhaber)**
+9. Vor-/Abspann nach **Credit-Regelung**
+10. FA-BW immer unter Kontaktadresse genannt
+### Projektabschluss
+1. Freigabe für Filmakademie
+2. Freigabe für Verwertung und Veröffentlichung
+3. Finanzieller Abschluss
+**Braucht**: ePro-Projektabschluss, alle Originalverträge, Masterfiles
 ### Festival Distribution
-1. Categorization
+1. Kategorisieren
+	- Welches Genre?
+	- Welches Festival?
 	- Premiere?
-2. Choose festival (e.g. Wiki, mailing list, https://shortfilm.de)
-	- Rules? Regulations?
-	- Reputable organizer?
-3. Submission
-	- Submit **yourself**
-	- Submission Fee? (Filmakademie does not pay !)
-	- Project Closure necessary
-	- Production company = Filmakademie (!)
+2. Veranstalter prüfen
+	- Regularien?
+	- Seriös?
+3. Einreichung
+	- Selbst einreichen
+	- Bei verschiedenen Plattformen möglich (manchmal: **Submission Fees** !!!)
 ### Online Distribution
 - Multiple channels
 	1. YouTube: Movies, Trailers, Insides
-	2. Vimeo On Demand (Paid :) Money !)
+	2. Vimeo On Demand
+- Frühstens 2 Jahre nach Fertigstellung
+- Erst Filmakademie, dann private Kanäle (nur mit **Kennzeichnung**)
+### Was machen die Kontaktpersonen?
+- Beraten
+- Informieren
+- Dokumentieren
+- Helfen (z.B. Weiterreichen)
+- Unterstützen (z.B. Kopien Versand)
