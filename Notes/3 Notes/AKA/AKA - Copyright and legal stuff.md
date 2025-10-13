@@ -16,10 +16,10 @@
 	- Temporal
 	- Spatial
 	- Content
-### Expiration
-- 70 years after death
-- USA: 70/ 75-95 years
-### Revenues
-- Commercial revenue is shared 50/50 with Filmakademie
-	- Additional contracts for splitting revenue between students
-- Festival prizes exclusive to students
+### Verfallsdatum
+- 70 Jahre (nach dem Tod)
+- **Ausnahme USA**: 70 oder 75-95 Jahre
+### Einnahmen
+- 50% der Einnahmen gehen an FK-BW
+- Aufteilung restlicher Einnahmen benötigt zusätzliche Verträge (i.d.R. Produzent)
+- 100% der Festivalpreise gehen an Studierende

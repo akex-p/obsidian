@@ -1,6 +1,4 @@
 #AKA #Law #WS2526
-
-https://wiki.filmakademie.de/wiki/pages/viewpage.action?pageId=212669226
 ### General
 ![[Pasted image 20251009213811.png]]
 ### Die 10 Gebote
