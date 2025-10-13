@@ -1,0 +1,13 @@
+### Animatic
+- Includes everything (roughly, independent)
+	- Music, Sound
+	- Camera
+	- Design
+	- Technique
+	- ...
+-  Solve all content problems
+	- Acting
+	- Timing
+	- Narrative
+	- ...
+- 
