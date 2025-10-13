@@ -50,7 +50,7 @@
 ### Filmausfallversicherung
 -> Co-Produktionen, Auftragsproduktionen, Diplomproduktionen (z.B. Schauspieler fällt aus)
 - **Nicht** durch die Sparkasse
-### Rechtschutzversicherung
+### Rechtsschutzversicherung
 -> zugelassene/angemietete Fahrzeuge der FA-BW + berechtigte Fahrer
 - (Europa)
 ### Zeltversicherung

@@ -1,4 +1,7 @@
 #AKA #WS2526 
+### IT-OfficeNet
+- 6 Mitarbeitende
+- IT-Infrastruktur
 ### Do not
 - Disrupt smooth operation
 - Share/Download copyright-protected material
@@ -15,6 +18,7 @@
 ### Connection
 - Eduroam-Wifi
 - VPN
+- 40MB Mail
 - 5GB Mailbox
 - 50+GB **Project Storage**
 - 5GB Fileserver DALI
