@@ -3,15 +3,17 @@
 - 6 Mitarbeitende
 - IT-Infrastruktur
 ### Do not
-- Disrupt smooth operation
+- Disruption
+- Deception
 - Share/Download copyright-protected material
-- No deception
 => Actions are logged + punishable
 ### Do
-- Report illegal content
-- Manage personal space (e.g. clean up)
-- Protect passwords
-- Ask, if suspect scam (e.g. phishing, spam, viruses, ...)
+- **Report**
+	- Scam (e.g. phishing, spam, viruses, ...)
+	- Illegal Content
+- **Manage**
+	- Passwords
+	- Personal Space (e.g. clean up mail)
 ### User-Account
 - One account, many services (e.g. Mail, Wiki, VPN, ...)
 - Password reset by employees
