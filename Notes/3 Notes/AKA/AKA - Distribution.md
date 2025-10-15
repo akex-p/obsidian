@@ -5,7 +5,7 @@
 1. **Rechtliche Klärung** nur bei Veröffentlichung/Verwertung nötig
 2. Veröffentlichung/Verwertung von Projekten benötigt **Projektabschluss**
 3. Rechte **frühzeitig** beachten
-4. **Schriftliche Vereinbarungen** vor Arbeitsaufnahme
+4. **Schriftliche Vereinbarungen** vor Arbeitsaufnahme (Versicherung + Rechte)
 5. **Rückstellungsvertrag** über Projektverantwortlichen (nicht FA-BW) (Ausnahme: Werbefilm)
 6. Alle Verträge von FA-BW-berechtigten Person unterschrieben
 7. Veröffentlichungsfreigabe benötigt **Auskunft über Rechtesituation**
@@ -13,10 +13,14 @@
 9. Vor-/Abspann nach **Credit-Regelung**
 10. FA-BW immer unter Kontaktadresse genannt
 ### Projektabschluss
-1. Freigabe für Filmakademie
-2. Freigabe für Verwertung und Veröffentlichung
-3. Finanzieller Abschluss
-**Braucht**: ePro-Projektabschluss, alle Originalverträge, Masterfiles
+- **Stufen**:
+	1. Freigabe für Filmakademie
+	2. Freigabe für Verwertung und Veröffentlichung
+	3. Finanzieller Abschluss
+- **Notwendig**:
+	- ePro-Projektabschluss
+	- alle Originalverträge
+	- Masterfiles
 ### Festival Distribution
 1. Kategorisieren
 	- Welches Genre?
@@ -28,6 +32,12 @@
 3. Einreichung
 	- Selbst einreichen
 	- Bei verschiedenen Plattformen möglich (manchmal: **Submission Fees** !!!)
+- **Shortfilm.de**
+### Vertrieb & Lizenzen (Kommerzielle Verwertung)
+- Verwertung der Filme
+- Lizenzanfragen
+- Rechtliche Fragen (zum Projektabschluss)
+- z.B. bei Festivals, Kino, Free-TV, ...
 ### Online Distribution
 - Multiple channels
 	1. YouTube: Movies, Trailers, Insides
