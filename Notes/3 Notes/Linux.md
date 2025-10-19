@@ -15,3 +15,9 @@
 - MSI (Mainboard)
 - Motu (Audio Interface)
 - Razer (Mouse)
+### Hard Drives
+- Root Directory ("/")
+- /root = Root User (Full Administration)
+- /bin = Command Line Tools (e.g. ls, cat, ...)
+- /sbin = Special Commands (for maintaining system/ administration)
+- /lib
