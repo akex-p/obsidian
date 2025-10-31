@@ -1,0 +1,34 @@
+### General
+- Besprechung = über alles mögliche
+- 10. November = 1. Milestone = Finale Entscheidung für Idee
+	- Zwischen-Deadline
+	- Ziele/Outcomes:
+		- Im Wiki (!)
+		- Use-Case beschreiben -> was passiert beim Erlebnis
+	- Kleine Präsentation (mit extra-Gästen)
+- Team-Coaching bei Karin nachholbar
+- Nächste Wochen:
+	- "Spazieren gehen"
+	- Ideen finden, konkretisieren
+	- Nochmal über alles nachdenken (nur _generelles_ Konzept)
+		- Was gefällt mir
+		- Was gefällt mir nicht
+		- Was kann man verbessern
+		- Research in großer Bandbreite
+### Wie ging es jedem?
+- Jan-Leon
+	- Gut, dass es die Hütte gab
+	- Aber war viel -> war danach durch (Donnerstag)
+	- Ideenfindung war zu schnell (geht normalerweise spazieren usw.)
+- Ruth
+	- Cool, aber anstrengend intensiv Ideen zu finden
+	- Nicht krank -> nur bisle mit der Idee beschäftigt
+	- war allein :(
+- Mareicke
+	- Atmosphäre + Hütte angenehm
+	- begeistert von Ideen
+	- Krank (ganze Woche)
+- Lina
+	- fand überraschend gut, trotz erster Bedenken
+	- cool, was entstanden ist
+	- intensiv -> gut, da am Freitag vorbei
