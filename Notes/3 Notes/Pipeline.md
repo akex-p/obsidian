@@ -55,5 +55,20 @@
 - Turn on auto save
 - Setup backup-workflow
 - Never touch publish files
+### First Steps
+1. Version für alles festlegen
+2. Starter Files (.bat) festlegen
+	- Possibility: Launcher
+### Important Components
+- Publisher
+- Updater
+- Review
+- Render Farm Automation
+### Cool Software
+- REZ
+- Conda
+- Pyblish
+- Royal Render
+- Flamenco
 ### Useful Links
 - [Pipeline Patterns](http://pipelinepatterns.com/intro/welcome.html)
